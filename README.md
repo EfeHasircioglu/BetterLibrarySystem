@@ -1,1 +1,1 @@
-İlginç özelliklere sahip, kullanıcı veya kütüphaneci olarak giriş yapabildiğiniz bir kütüphane yönetim programı. Dosyaların yapısı ve birbirleriyle nasıl bağdaşacakları konusunda yapay zeka'dan yardım aldım ama onun dışında bütün kodları ben yazdım.
+İlginç özelliklere sahip, kullanıcı veya kütüphaneci olarak giriş yapabildiğiniz bir kütüphane yönetim programı. Dosyaların yapısı ve birbirleriyle nasıl bağdaşacakları konusunda yapay zeka'dan yardım aldım ama onun dışında bütün kodları ben yazdım. (Varsayılan kullanıcı adı ve şifre: A1, Kedi)
