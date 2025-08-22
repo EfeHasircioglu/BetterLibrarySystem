@@ -3,3 +3,5 @@
 ### Varsayılan kullanıcı girişi
 - Kullanıcı Adı: `A1`
 - Şifre: `Kedi`
+### Uygulamanın çalışır hali
+https://replit.com/@efehasircioglu/BetterLibrarySystem
